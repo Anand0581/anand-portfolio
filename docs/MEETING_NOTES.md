@@ -57,3 +57,38 @@ Future sprint notes will be added below.
 Project Everest officially moved beyond a starter template.
 
 The project now has a solid engineering foundation before moving to Hero development.
+
+# Sprint 2
+
+## Header v1 Completed
+
+Completed:
+
+- Container integration
+- Header layout
+- Navigation
+- Resume CTA
+- Typography
+- Color system
+- Hover interactions
+
+## Hero Planning Completed
+
+Hero content finalized.
+
+Final Hero Copy:
+
+Hi, I'm Anand.
+
+Senior Android Engineer
+
+I build scalable Android applications that reach millions of users with a strong focus on performance, Clean Architecture, and exceptional user experience.
+
+Primary CTA:
+
+- Resume
+- Contact
+
+## Next Milestone
+
+Hero implementation.

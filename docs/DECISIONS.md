@@ -87,3 +87,73 @@ border-zinc-800
 Reason:
 
 Subtle separation without creating visual noise.
+
+# Header v1 (Locked)
+
+## Objective
+
+Build a clean, minimal, recruiter-focused navigation that follows the overall design philosophy of Project Everest.
+
+## Final Decisions
+
+### Layout
+
+- Header uses the shared `Container` component.
+- Normal header (non-sticky) for Version 1.
+- Three logical sections:
+  - Brand Logo
+  - Navigation
+  - Resume CTA
+
+### Brand
+
+- Typography:
+  - `text-xl`
+  - `font-semibold`
+  - `tracking-tight`
+- Color:
+  - `text-zinc-100`
+
+### Navigation
+
+- Semantic HTML:
+  - `<nav>`
+  - `<ul>`
+  - `<li>`
+  - `<a>`
+
+- Typography:
+  - `font-medium`
+
+- Default color:
+  - `text-zinc-400`
+
+- Hover:
+  - `text-zinc-100`
+
+### Resume CTA
+
+Outlined button.
+
+Classes:
+
+- rounded-full
+- border
+- border-zinc-700
+- px-5
+- py-2
+- text-sm
+- font-medium
+- text-zinc-100
+- transition-colors
+- duration-200
+- hover:bg-zinc-900
+
+### Engineering Decisions
+
+- Use semantic HTML whenever possible.
+- Keep Header minimal.
+- Resume is the primary CTA.
+- Avoid unnecessary animations.
+- Use `transition-colors` instead of `transition-all`.
+- Accessibility enhancements moved to Phase 2.
