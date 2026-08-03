@@ -143,3 +143,87 @@ Sell outcomes, not tools.
 Don't highlight technologies first.
 
 Highlight engineering impact.
+
+# Learnings
+
+## Rule #44
+
+Supporting text should support the Hero Heading,
+not compete with it.
+
+---
+
+## Rule #45
+
+Typography should follow responsibility.
+
+Greeting
+↓
+
+Heading
+↓
+
+Description
+
+Every level has its own visual weight.
+
+---
+
+## Rule #46
+
+Limit text width for readability.
+
+Use max-width based on reading comfort,
+not screen width.
+
+---
+
+## Rule #47
+
+Line height exists for reading comfort,
+not visual decoration.
+
+---
+
+## Rule #48
+
+Every typography class has exactly one responsibility.
+
+Font Size
+→ Importance
+
+Font Weight
+→ Emphasis
+
+Text Color
+→ Visual Hierarchy
+
+Max Width
+→ Readability
+
+Line Height
+→ Reading Comfort
+
+---
+
+## Rule #49
+
+CTA represents the next user intent.
+
+A button is not just an action.
+
+It is the next logical step in the user journey.
+
+---
+
+## Rule #50
+
+Do not optimize for maximum attention.
+
+Optimize for appropriate attention.
+
+---
+
+## Rule #51
+
+Multiple CTAs should follow the user's most common journey while keeping alternative actions easily accessible.

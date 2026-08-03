@@ -157,3 +157,81 @@ Classes:
 - Avoid unnecessary animations.
 - Use `transition-colors` instead of `transition-all`.
 - Accessibility enhancements moved to Phase 2.
+
+# Decisions
+
+## Hero Greeting
+
+Approved
+
+Tag:
+<p>
+
+Typography:
+text-base
+font-normal
+text-zinc-400
+
+Status:
+Locked
+
+---
+
+## Hero Heading
+
+Approved
+
+Tag:
+<h1>
+
+Content:
+Senior Android Engineer
+
+Typography:
+text-3xl
+font-bold
+text-zinc-100
+
+Status:
+Locked
+
+---
+
+## Hero Description
+
+Approved
+
+Content:
+Building scalable Android applications with 8 years of experience, focusing on performance, architecture, and user experience.
+
+Typography:
+text-lg
+text-zinc-300
+max-w-3xl
+leading-relaxed
+
+Status:
+Locked
+
+---
+
+## CTA
+
+Buttons
+
+Resume
+Contact
+
+Layout
+
+Horizontal
+
+Order
+
+Resume
+↓
+
+Contact
+
+Status:
+Locked

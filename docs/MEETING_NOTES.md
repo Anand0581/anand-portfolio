@@ -92,3 +92,116 @@ Primary CTA:
 ## Next Milestone
 
 Hero implementation.
+
+# Meeting Notes
+
+## Date
+2026-08-04
+
+---
+
+## Hero Section Progress
+
+### Completed
+
+- Hero component created
+- Hero connected to app/page.tsx
+- Greeting finalized
+- Hero Heading finalized
+- Hero Description finalized
+
+---
+
+## Typography Decisions
+
+### Greeting
+
+Tag:
+<p>
+
+Classes:
+text-base
+font-normal
+text-zinc-400
+
+Reason:
+Secondary information.
+Should introduce the person without competing with the Hero Heading.
+
+---
+
+### Hero Heading
+
+Tag:
+<h1>
+
+Content:
+Senior Android Engineer
+
+Classes:
+text-3xl
+font-bold
+text-zinc-100
+
+Reason:
+Primary message of the Hero.
+Immediately communicates profession.
+Matches Project Everest's calm and premium design language.
+
+---
+
+### Description
+
+Classes:
+text-lg
+text-zinc-300
+max-w-3xl
+leading-relaxed
+
+Reason:
+Supports the Hero Heading.
+Builds credibility.
+Improves readability through controlled width and relaxed line spacing.
+
+---
+
+## CTA Decisions
+
+Buttons
+
+- Resume
+- Contact
+
+Layout
+
+Horizontal
+
+Reason
+
+Actions are alternatives, not sequential steps.
+
+Order
+
+Resume → Contact
+
+Reason
+
+Represents the most common recruiter journey while keeping Contact immediately available.
+
+---
+
+## Architecture
+
+Container remains the single source of truth for horizontal spacing.
+
+Hero uses Container.
+
+No duplicated horizontal padding.
+
+---
+
+## Git
+
+Removed unnecessary .gitkeep from components/sections.
+
+Hero connected through app/page.tsx.
