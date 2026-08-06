@@ -205,3 +205,64 @@ No duplicated horizontal padding.
 Removed unnecessary .gitkeep from components/sections.
 
 Hero connected through app/page.tsx.
+
+# Meeting Notes
+
+## Sprint Management Discussion
+
+Topics covered:
+
+- Sprint Responsibility
+- Sprint Goal
+- Ordered Backlog
+- Move vs Copy
+- Sprint Board
+- Blocked State
+- Sprint Health
+- Milestones
+
+Result:
+
+Sprint Management System v1.0 approved.
+
+---
+
+## Vocabulary Approved
+
+SOD
+
+Back to the Mountain
+
+Base Camp
+
+EOD
+
+---
+
+## Base Camp
+
+Purpose:
+
+Update sprint progress.
+
+Workflow:
+
+Developer reports:
+
+- Completed
+- Current
+- Blockers
+- Notes
+
+Assistant updates:
+
+- Sprint Board
+- Current Progress
+- Next Task
+- Sprint Status
+
+---
+
+## Future Principle
+
+Process should evolve only when justified by real problems.

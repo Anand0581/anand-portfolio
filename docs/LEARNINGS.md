@@ -227,3 +227,59 @@ Optimize for appropriate attention.
 ## Rule #51
 
 Multiple CTAs should follow the user's most common journey while keeping alternative actions easily accessible.
+
+# Learnings
+
+## Responsibility First Thinking
+
+Instead of asking:
+
+"What is this?"
+
+Always ask:
+
+"What is its responsibility?"
+
+This approach made decisions significantly easier throughout the project.
+
+Examples:
+
+- Typography hierarchy
+- Hero description
+- CTA placement
+- Sprint workflow
+- Milestones
+
+---
+
+## Sprint Management
+
+Sprint != Milestone
+
+Sprint delivers work.
+
+Milestone represents a meaningful achievement.
+
+---
+
+## Sprint Health
+
+Never measure sprint health using only completed tasks.
+
+Measure using:
+
+- Progress
+- Time
+- Blockers
+
+---
+
+## Simplicity Wins
+
+Avoid introducing process before the problem exists.
+
+Examples:
+
+- No develop branch yet.
+- No Review/QA column for a one-developer team.
+- No Jira until Markdown becomes insufficient.

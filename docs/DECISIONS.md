@@ -235,3 +235,59 @@ Contact
 
 Status:
 Locked
+
+# Decisions
+
+## Project Management
+
+### Sprint Management v1.0 (LOCKED)
+
+Sprint Workflow
+
+Backlog
+↓
+Sprint Planning
+↓
+Todo
+↓
+In Progress
+↓
+Blocked
+↓
+Done
+
+Notes:
+- Backlog contains future work.
+- Todo contains committed work for the current sprint.
+- In Progress contains active work.
+- Blocked contains work that cannot move forward due to dependencies.
+- Done contains completed work.
+
+---
+
+### Sprint Health
+
+Sprint health is measured using:
+
+- Progress
+- Time
+- Blockers
+
+No single metric is sufficient.
+
+---
+
+### Milestones
+
+Milestones represent significant achievements toward a Release Goal.
+
+Every milestone must have measurable success criteria.
+
+---
+
+### Process Philosophy
+
+Design for today's needs.
+Keep the architecture ready for tomorrow.
+
+Every process must justify its existence.

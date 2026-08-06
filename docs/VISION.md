@@ -38,3 +38,16 @@ When someone visits the portfolio:
 - Fast loading
 - Professional storytelling
 - Strong GitHub presence
+
+## Engineering Philosophy
+
+Project Everest is not only about building a portfolio.
+
+It is about building an engineering culture.
+
+Every decision should answer one question:
+
+"What problem does this solve?"
+
+If no problem exists,
+the process should not exist.
