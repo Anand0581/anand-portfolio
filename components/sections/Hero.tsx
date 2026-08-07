@@ -13,6 +13,10 @@ export default function Hero() {
                             experience, focusing on performance, architecture, and
                             user experience.
                         </p>
+                        <div className="flex gap-4">
+                            <button className="px-6 py-3 bg-zinc-100 text-zinc-900 rounded-lg font-medium">Resume</button>
+                            <button className="px-6 py-3 text-zinc-100 font-medium">Contact Me</button>
+                        </div>
                     </div>
                 </div>
             </Container>
