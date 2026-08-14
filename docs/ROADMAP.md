@@ -14,14 +14,31 @@
 
 ## Phase 3
 
-🚧 Core Development
+🚧 Core Portfolio Development
 
-- Hero Section
-- About
-- Experience
-- Skills
-- Projects
-- Contact
+### Homepage
+
+- [x] Hero
+- [x] About Preview
+- [x] Experience Preview
+- [x] Education Highlight
+- [ ] Skills Preview
+- [ ] Featured Projects
+- [ ] Contact CTA
+
+### Dedicated Pages
+
+- [ ] About
+- [ ] Experience
+- [ ] Education
+- [ ] Skills
+- [ ] Projects
+- [ ] Contact
+
+### Navigation
+
+- [x] Dedicated-page navigation strategy finalized
+- [ ] Connect navigation to dedicated pages
 
 ---
 
