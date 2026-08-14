@@ -12,11 +12,15 @@
 
 ---
 
-## Phase 3
+## Phase 3 — Core Portfolio Development
 
-🚧 Core Portfolio Development
+🟡 In Progress
 
-### Homepage
+### Phase 3A — Homepage
+
+Goal:
+
+Complete the homepage as a curated overview of the portfolio before moving to dedicated detail pages.
 
 - [x] Hero
 - [x] About Preview
@@ -26,7 +30,11 @@
 - [ ] Featured Projects
 - [ ] Contact CTA
 
-### Dedicated Pages
+### Phase 3B — Dedicated Pages
+
+Goal:
+
+Build dedicated pages containing detailed information for each major portfolio area.
 
 - [ ] About
 - [ ] Experience
@@ -35,16 +43,23 @@
 - [ ] Projects
 - [ ] Contact
 
-### Navigation
+### Phase 3C — Navigation
+
+Goal:
+
+Connect the portfolio navigation to the dedicated pages and verify the complete navigation experience.
 
 - [x] Dedicated-page navigation strategy finalized
-- [ ] Connect navigation to dedicated pages
+- [ ] Implement dedicated routes
+- [ ] Connect Header navigation
+- [ ] Verify navigation across all pages
+- [ ] Verify active/current page behavior
 
 ---
 
-## Phase 4
+## Phase 4 — Polish
 
-⏳ Polish
+⏳ Pending
 
 - Animations
 - Performance
