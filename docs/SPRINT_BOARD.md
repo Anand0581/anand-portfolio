@@ -4,11 +4,13 @@
 
 **Current Phase:** Phase 3 — Core Portfolio Development
 
+**Current Sub-Phase:** Phase 3A — Homepage
+
 **Phase Status:** 🟡 In Progress
 
 **Current Base Camp:** Portfolio Core
 
-**Current Mountain:** 🏔️ About Page
+**Current Mountain:** 🏔️ Skills Preview
 
 ---
 
@@ -30,7 +32,7 @@ Status: ✅ Complete
 
 Status: 🟡 In Progress
 
-### Homepage
+### Phase 3A — Homepage
 
 - [x] Hero
 - [x] About Preview
@@ -40,7 +42,7 @@ Status: 🟡 In Progress
 - [ ] Featured Projects
 - [ ] Contact CTA
 
-### Dedicated Pages
+### Phase 3B — Dedicated Pages
 
 - [ ] About
 - [ ] Experience
@@ -49,10 +51,13 @@ Status: 🟡 In Progress
 - [ ] Projects
 - [ ] Contact
 
-### Navigation
+### Phase 3C — Navigation
 
 - [x] Dedicated-page navigation strategy finalized
-- [ ] Connect navigation to dedicated pages
+- [ ] Implement dedicated routes
+- [ ] Connect Header navigation
+- [ ] Verify navigation across all pages
+- [ ] Verify active/current page behavior
 
 ---
 
@@ -63,11 +68,10 @@ Status: 🟡 In Progress
 Status: ✅ Complete
 
 - Hero implementation
-- Typography
-- Content
-- CTA
-- Responsive review
-- Visual review
+- Typography and content finalized
+- CTA strategy implemented
+- Responsive review completed
+- Visual review completed
 - PR merged
 - Feature branch cleaned up
 
@@ -79,8 +83,9 @@ Status: ✅ Complete
 
 - Experience section implemented
 - Resume content added
-- Experience layout reviewed
+- Layout reviewed
 - Responsive review completed
+- Visual review completed
 - PR merged
 - Feature branch cleaned up
 
@@ -94,6 +99,7 @@ Status: ✅ Complete
 - Education content added
 - Layout reviewed
 - Responsive review completed
+- Visual review completed
 - PR merged
 - Feature branch cleaned up
 
@@ -103,12 +109,13 @@ Status: ✅ Complete
 
 Status: ✅ Complete
 
-- About content finalized
+- About content finalized and approved
 - About section implemented
 - Hero → About placement finalized
 - Typography reviewed
 - Section spacing reviewed
 - Responsive review completed
+- Visual review completed
 - PR merged
 - Feature branch cleaned up
 
@@ -116,22 +123,21 @@ Status: ✅ Complete
 
 # Current Mountain
 
-## 🏔️ About Page
+## 🏔️ Skills Preview
 
 Status: 🟡 Ready to Start
 
 ### Goal
 
-Build the dedicated About page containing the detailed professional introduction while keeping the homepage About section as a concise preview.
+Build the Skills preview for the homepage while keeping the detailed Skills experience reserved for the dedicated Skills page in Phase 3B.
 
 ### Planned Work
 
+- [ ] Define Skills preview content
+- [ ] Define visual presentation
 - [ ] Create feature branch
-- [ ] Define dedicated page structure
-- [ ] Reuse approved About content
-- [ ] Implement page layout
-- [ ] Review typography
-- [ ] Review spacing
+- [ ] Implement Skills preview
+- [ ] Review typography and spacing
 - [ ] Review responsive behavior
 - [ ] Visual review
 - [ ] Commit
@@ -146,40 +152,57 @@ Build the dedicated About page containing the detailed professional introduction
 
 # Backlog
 
-## Dedicated Pages
+## Phase 3A — Homepage
+
+### Skills
+
+- [ ] Skills Preview
+
+### Projects
+
+- [ ] Define featured projects
+- [ ] Projects Preview
+
+### Contact
+
+- [ ] Contact CTA
+
+---
+
+## Phase 3B — Dedicated Pages
 
 ### About
+
 - [ ] Dedicated About page
 
 ### Experience
+
 - [ ] Dedicated Experience page
-- [ ] Reuse Experience data between preview and full page
+- [ ] Reuse Experience information between preview and detailed page
 
 ### Education
+
 - [ ] Dedicated Education page
 
 ### Skills
-- [ ] Define Skills content
-- [ ] Skills homepage preview
+
 - [ ] Dedicated Skills page
 
 ### Projects
-- [ ] Define featured projects
-- [ ] Projects homepage preview
+
 - [ ] Dedicated Projects page
 
 ### Contact
-- [ ] Homepage Contact CTA
+
 - [ ] Dedicated Contact page
 
 ---
 
-# Navigation Backlog
+## Phase 3C — Navigation
 
-- [x] Decide dedicated-page navigation
 - [ ] Implement routes
 - [ ] Connect Header navigation
-- [ ] Verify navigation on all pages
+- [ ] Verify all navigation destinations
 - [ ] Verify active/current page behavior
 
 ---
@@ -201,17 +224,17 @@ Build the dedicated About page containing the detailed professional introduction
 
 # Base Camp Protocol
 
-A mountain is considered **Complete** only when:
+A mountain is considered complete only when:
 
-- [x] Implementation complete
-- [x] Responsive review complete
-- [x] Visual review complete
-- [x] Commit created
-- [x] PR created
-- [x] PR reviewed
-- [x] PR merged
-- [x] Feature branch deleted
-- [x] Documentation updated
+- [ ] Implementation complete
+- [ ] Responsive review complete
+- [ ] Visual review complete
+- [ ] Commit created
+- [ ] PR created
+- [ ] PR reviewed
+- [ ] PR merged
+- [ ] Feature branch deleted
+- [ ] Documentation updated
 
 After completion:
 
@@ -219,15 +242,25 @@ After completion:
 
 ---
 
+# Documentation Ownership
+
+- `roadmap.md` → Overall project direction, phases, and major milestones.
+- `SPRINT_BOARD.md` → Authoritative project status, current phase, current sub-phase, current mountain, and backlog.
+- `Current_sprint.md` → Active sprint details and sprint history.
+
+---
+
 # Project Principles
 
 - One Mountain at a Time.
-- Never start the next mountain before the current one reaches Base Camp.
-- Homepage contains curated previews.
+- Complete the current mountain before starting another.
+- Complete the homepage before moving to dedicated pages.
+- Homepage contains curated previews and highlights.
 - Dedicated pages contain detailed information.
+- Navigation uses dedicated pages rather than anchor scrolling.
 - Avoid premature abstraction.
 - Extract reusable components when a clear reuse case exists.
 - Keep roadmap high-level.
-- Keep sprint board as the project-status source of truth.
-- Keep `Current_sprint.md` focused on the active sprint.
+- Keep the sprint board as the project-status source of truth.
 - Update documentation whenever a mountain reaches Base Camp.
+- Project completion estimates are based on actual execution data rather than assumptions.
