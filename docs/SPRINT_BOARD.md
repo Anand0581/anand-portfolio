@@ -10,7 +10,7 @@
 
 **Current Base Camp:** Portfolio Core
 
-**Current Mountain:** 🏔️ Skills Preview
+**Current Mountain:** 🏔️ Contact CTA
 
 ---
 
@@ -38,8 +38,8 @@ Status: 🟡 In Progress
 - [x] About Preview
 - [x] Experience Preview
 - [x] Education Highlight
-- [ ] Skills Preview
-- [ ] Featured Projects
+- [x] Skills Preview
+- [x] Featured Projects
 - [ ] Contact CTA
 
 ### Phase 3B — Dedicated Pages
@@ -121,22 +121,53 @@ Status: ✅ Complete
 
 ---
 
+## 🏔️ Skills Preview
+
+Status: ✅ Complete
+
+- Skills content finalized and approved
+- Skills visual direction finalized
+- Skills section implemented
+- Skills integrated into the homepage
+- Responsive behavior reviewed
+- Visual review completed
+- PR merged
+- Feature branch cleaned up
+
+---
+
+## 🏔️ Projects Preview
+
+Status: ✅ Complete
+
+- Featured projects finalized and approved
+- Project card content finalized
+- Lightweight project-card direction approved
+- Projects section implemented
+- Projects integrated into the homepage
+- Responsive behavior reviewed
+- Visual review completed
+- PR merged
+- Feature branch cleaned up
+
+---
+
 # Current Mountain
 
-## 🏔️ Skills Preview
+## 🏔️ Contact CTA
 
 Status: 🟡 Ready to Start
 
 ### Goal
 
-Build the Skills preview for the homepage while keeping the detailed Skills experience reserved for the dedicated Skills page in Phase 3B.
+Build the Contact CTA for the homepage while keeping detailed contact information and contact-page functionality reserved for the dedicated Contact page in Phase 3B.
 
 ### Planned Work
 
-- [ ] Define Skills preview content
+- [ ] Define Contact CTA content
 - [ ] Define visual presentation
 - [ ] Create feature branch
-- [ ] Implement Skills preview
+- [ ] Implement homepage Contact CTA
 - [ ] Review typography and spacing
 - [ ] Review responsive behavior
 - [ ] Visual review
@@ -154,18 +185,13 @@ Build the Skills preview for the homepage while keeping the detailed Skills expe
 
 ## Phase 3A — Homepage
 
-### Skills
-
-- [ ] Skills Preview
-
-### Projects
-
-- [ ] Define featured projects
-- [ ] Projects Preview
-
 ### Contact
 
-- [ ] Contact CTA
+- [ ] Define Contact CTA
+- [ ] Implement homepage Contact CTA
+- [ ] Responsive review
+- [ ] Visual review
+- [ ] PR and merge
 
 ---
 
