@@ -117,6 +117,31 @@ Complete the homepage as a curated portfolio overview before starting dedicated 
 - About section merged into `main`.
 - Feature branch cleaned up.
 
+#### Skills Preview
+
+- Skills content finalized and approved.
+- Skills visual direction finalized.
+- Skills section implemented.
+- Skills integrated into the homepage.
+- Responsive behavior reviewed.
+- Visual review completed.
+- Pull Request reviewed and approved.
+- Skills merged into `main`.
+- Feature branch cleaned up.
+
+#### Projects Preview
+
+- Featured projects finalized and approved.
+- Project card content finalized.
+- Lightweight project-card direction approved.
+- Projects section implemented.
+- Projects integrated into the homepage.
+- Responsive behavior reviewed.
+- Visual review completed.
+- Pull Request reviewed and approved.
+- Projects merged into `main`.
+- Feature branch cleaned up.
+
 ---
 
 # Architecture Decisions
