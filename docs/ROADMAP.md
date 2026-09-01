@@ -16,9 +16,13 @@
 
 🟡 In Progress
 
-### Phase 3A — Homepage
+## Phase 3A — Homepage
 
-**Goal:** Complete the homepage as a curated overview of the portfolio before moving to dedicated detail pages.
+Status: ✅ Complete
+
+Goal:
+
+Complete the homepage as a curated overview of the portfolio before moving to dedicated detail pages.
 
 - [x] Hero
 - [x] About Preview
@@ -26,11 +30,18 @@
 - [x] Education Highlight
 - [x] Skills Preview
 - [x] Featured Projects
-- [ ] Contact CTA
+- [x] Contact CTA
 
-### Phase 3B — Dedicated Pages
 
-**Goal:** Build dedicated pages containing detailed information for each major portfolio area.
+---
+
+## Phase 3B — Dedicated Pages
+
+Status: 🟡 In Progress
+
+Goal:
+
+Build dedicated pages containing detailed information for each major portfolio area.
 
 - [ ] About
 - [ ] Experience
@@ -39,9 +50,21 @@
 - [ ] Projects
 - [ ] Contact
 
-### Phase 3C — Navigation
 
-**Goal:** Connect the portfolio navigation to the dedicated pages and verify the complete navigation experience.
+### Current Mountain
+
+🏔️ Dedicated About Page
+
+
+---
+
+## Phase 3C — Navigation
+
+Status: ⏳ Pending
+
+Goal:
+
+Connect portfolio navigation to the dedicated pages and verify the complete navigation experience.
 
 - [x] Dedicated-page navigation strategy finalized
 - [ ] Implement dedicated routes
@@ -49,11 +72,12 @@
 - [ ] Verify navigation across all pages
 - [ ] Verify active/current page behavior
 
+
 ---
 
-## Phase 4 — Polish
+# Phase 4 — Polish
 
-⏳ Pending
+Status: ⏳ Pending
 
 - Animations
 - Performance
