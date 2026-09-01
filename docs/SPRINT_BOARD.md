@@ -1,38 +1,40 @@
-# Project Everest — Sprint Board
+# Project Everest --- Sprint Board
 
 ## Project Status
 
-**Current Phase:** Phase 3 — Core Portfolio Development
+**Current Phase:** Phase 3 --- Core Portfolio Development
 
-**Current Sub-Phase:** Phase 3A — Homepage
+**Current Sub-Phase:** Phase 3B --- Dedicated Pages
 
 **Phase Status:** 🟡 In Progress
 
-**Current Base Camp:** Portfolio Core
+**Current Base Camp:** Homepage Complete
 
-**Current Mountain:** 🏔️ Contact CTA
+**Current Mountain:** 🏔️ Dedicated About Page
 
 ---
 
 # Phase Progress
 
-## Phase 1 — Vision & Research
+## Phase 1 --- Vision & Research
 
 Status: ✅ Complete
 
 ---
 
-## Phase 2 — Engineering Foundation
+## Phase 2 --- Engineering Foundation
 
 Status: ✅ Complete
 
 ---
 
-## Phase 3 — Core Portfolio Development
+## Phase 3 --- Core Portfolio Development
 
 Status: 🟡 In Progress
 
-### Phase 3A — Homepage
+### Phase 3A --- Homepage
+
+Status: ✅ Complete
 
 - [x] Hero
 - [x] About Preview
@@ -40,9 +42,11 @@ Status: 🟡 In Progress
 - [x] Education Highlight
 - [x] Skills Preview
 - [x] Featured Projects
-- [ ] Contact CTA
+- [x] Contact CTA
 
-### Phase 3B — Dedicated Pages
+### Phase 3B --- Dedicated Pages
+
+Status: 🟡 In Progress
 
 - [ ] About
 - [ ] Experience
@@ -51,7 +55,9 @@ Status: 🟡 In Progress
 - [ ] Projects
 - [ ] Contact
 
-### Phase 3C — Navigation
+### Phase 3C --- Navigation
+
+Status: ⏳ Pending
 
 - [x] Dedicated-page navigation strategy finalized
 - [ ] Implement dedicated routes
@@ -128,7 +134,8 @@ Status: ✅ Complete
 - Skills content finalized and approved
 - Skills visual direction finalized
 - Skills section implemented
-- Skills integrated into the homepage
+- Skills container/layout implemented
+- Typography and spacing reviewed
 - Responsive behavior reviewed
 - Visual review completed
 - PR merged
@@ -136,15 +143,31 @@ Status: ✅ Complete
 
 ---
 
-## 🏔️ Projects Preview
+## 🏔️ Featured Projects
 
 Status: ✅ Complete
 
-- Featured projects finalized and approved
-- Project card content finalized
-- Lightweight project-card direction approved
-- Projects section implemented
-- Projects integrated into the homepage
+- Featured project selection finalized
+- Project content finalized
+- Simple card-based presentation finalized
+- Projects preview implemented
+- Project cards reviewed
+- Responsive behavior reviewed
+- Visual review completed
+- PR merged
+- Feature branch cleaned up
+
+---
+
+## 🏔️ Contact CTA
+
+Status: ✅ Complete
+
+- Contact CTA content finalized
+- `Let's Connect` direction approved
+- Primary CTA implemented
+- Secondary Resume CTA implemented
+- Homepage integration completed
 - Responsive behavior reviewed
 - Visual review completed
 - PR merged
@@ -154,25 +177,27 @@ Status: ✅ Complete
 
 # Current Mountain
 
-## 🏔️ Contact CTA
+## 🏔️ Dedicated About Page
 
 Status: 🟡 Ready to Start
 
 ### Goal
 
-Build the Contact CTA for the homepage while keeping detailed contact information and contact-page functionality reserved for the dedicated Contact page in Phase 3B.
+Build the dedicated About page containing detailed professional information while keeping the homepage About section as a concise preview.
 
 ### Planned Work
 
-- [ ] Define Contact CTA content
+- [ ] Define detailed About page content
+- [ ] Define page structure
 - [ ] Define visual presentation
 - [ ] Create feature branch
-- [ ] Implement homepage Contact CTA
+- [ ] Implement About page
 - [ ] Review typography and spacing
 - [ ] Review responsive behavior
+- [ ] Review relationship with homepage About preview
 - [ ] Visual review
 - [ ] Commit
-- [ ] Create PR
+- [ ] Create Pull Request
 - [ ] Review PR
 - [ ] Merge into `main`
 - [ ] Delete feature branch
@@ -183,19 +208,7 @@ Build the Contact CTA for the homepage while keeping detailed contact informatio
 
 # Backlog
 
-## Phase 3A — Homepage
-
-### Contact
-
-- [ ] Define Contact CTA
-- [ ] Implement homepage Contact CTA
-- [ ] Responsive review
-- [ ] Visual review
-- [ ] PR and merge
-
----
-
-## Phase 3B — Dedicated Pages
+## Phase 3B --- Dedicated Pages
 
 ### About
 
@@ -224,9 +237,9 @@ Build the Contact CTA for the homepage while keeping detailed contact informatio
 
 ---
 
-## Phase 3C — Navigation
+## Phase 3C --- Navigation
 
-- [ ] Implement routes
+- [ ] Implement dedicated routes
 - [ ] Connect Header navigation
 - [ ] Verify all navigation destinations
 - [ ] Verify active/current page behavior

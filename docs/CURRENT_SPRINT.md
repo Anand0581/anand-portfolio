@@ -17,6 +17,7 @@ Complete Hero Section
 - Hero UI implemented.
 - Hero reviewed and approved.
 - Hero merged into `main`.
+- Feature branch cleaned up.
 
 ---
 
@@ -40,7 +41,7 @@ Blockers: None
 
 ## Current Milestone
 
-**Milestone 2 — Portfolio Core Sections**
+**Milestone 2 --- Portfolio Core Sections**
 
 Status: 🟡 In Progress
 
@@ -48,17 +49,17 @@ Status: 🟡 In Progress
 
 ## Current Phase
 
-**Phase 3A — Homepage**
+**Phase 3B --- Dedicated Pages**
 
 Goal:
 
-Complete the homepage as a curated portfolio overview before starting dedicated detail pages.
+Build detailed dedicated pages after completing the curated homepage experience.
 
 ---
 
-## Completed
+# Completed
 
-### Foundation
+## Foundation
 
 - Project architecture and initial structure established.
 - Design principles and information architecture defined.
@@ -66,9 +67,11 @@ Complete the homepage as a curated portfolio overview before starting dedicated 
 - Sprint and Base Camp workflow established.
 - Roadmap, sprint board, and current sprint documentation responsibilities established.
 
-### Homepage Core Sections
+---
 
-#### Hero
+## Homepage Core Sections
+
+### Hero
 
 - Hero section structure implemented.
 - Viewport-based hero height implemented.
@@ -84,7 +87,9 @@ Complete the homepage as a curated portfolio overview before starting dedicated 
 - Hero Foundation merged into `main`.
 - Feature branch cleaned up.
 
-#### Experience Preview
+---
+
+### Experience Preview
 
 - Experience section implemented.
 - Experience content added from resume.
@@ -94,7 +99,9 @@ Complete the homepage as a curated portfolio overview before starting dedicated 
 - Feature branch merged into `main`.
 - Feature branch cleaned up.
 
-#### Education Highlight
+---
+
+### Education Highlight
 
 - Education section implemented.
 - Education content added.
@@ -104,7 +111,9 @@ Complete the homepage as a curated portfolio overview before starting dedicated 
 - Feature branch merged into `main`.
 - Feature branch cleaned up.
 
-#### About Preview
+---
+
+### About Preview
 
 - About content finalized and approved.
 - About section implemented.
@@ -117,53 +126,58 @@ Complete the homepage as a curated portfolio overview before starting dedicated 
 - About section merged into `main`.
 - Feature branch cleaned up.
 
-#### Skills Preview
+---
+
+### Skills Preview
 
 - Skills content finalized and approved.
 - Skills visual direction finalized.
 - Skills section implemented.
-- Skills integrated into the homepage.
+- Skills container/layout implemented.
+- Typography and spacing reviewed.
 - Responsive behavior reviewed.
 - Visual review completed.
 - Pull Request reviewed and approved.
-- Skills merged into `main`.
-- Feature branch cleaned up.
-
-#### Projects Preview
-
-- Featured projects finalized and approved.
-- Project card content finalized.
-- Lightweight project-card direction approved.
-- Projects section implemented.
-- Projects integrated into the homepage.
-- Responsive behavior reviewed.
-- Visual review completed.
-- Pull Request reviewed and approved.
-- Projects merged into `main`.
+- Skills section merged into `main`.
 - Feature branch cleaned up.
 
 ---
 
-# Architecture Decisions
+### Featured Projects
 
-## Navigation
+- Featured project selection finalized.
+- Project content finalized.
+- Simple card-based presentation finalized.
+- Projects preview implemented.
+- Project cards reviewed.
+- Responsive behavior reviewed.
+- Visual review completed.
+- Pull Request reviewed and approved.
+- Projects section merged into `main`.
+- Feature branch cleaned up.
 
-Dedicated pages will be used instead of anchor scrolling.
+---
 
-Planned destinations:
+### Contact CTA
 
-- `/about`
-- `/experience`
-- `/education`
-- `/skills`
-- `/projects`
-- `/contact`
+- Contact CTA content finalized.
+- `Let's Connect` direction finalized and approved.
+- Primary `Get In Touch` CTA implemented.
+- Secondary `View Resume` CTA implemented.
+- Homepage Contact CTA integrated.
+- Responsive behavior reviewed.
+- Visual review completed.
+- Pull Request reviewed and approved.
+- Contact CTA merged into `main`.
+- Feature branch cleaned up.
 
-## Homepage
+---
 
-The homepage will contain curated previews/highlights rather than complete content.
+# Phase 3A Completion
 
-Current structure:
+Phase 3A --- Homepage is now complete.
+
+Final homepage structure:
 
 ```text
 Hero
