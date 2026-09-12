@@ -43,7 +43,7 @@ Goal:
 
 Build dedicated pages containing detailed information for each major portfolio area.
 
-- [ ] About
+- [x] About
 - [ ] Experience
 - [ ] Education
 - [ ] Skills
@@ -53,7 +53,7 @@ Build dedicated pages containing detailed information for each major portfolio a
 
 ### Current Mountain
 
-🏔️ Dedicated About Page
+🏔️ Dedicated Experience Page
 
 
 ---
