@@ -32,7 +32,6 @@ Complete the homepage as a curated overview of the portfolio before moving to de
 - [x] Featured Projects
 - [x] Contact CTA
 
-
 ---
 
 ## Phase 3B — Dedicated Pages
@@ -45,15 +44,13 @@ Build dedicated pages containing detailed information for each major portfolio a
 
 - [x] About
 - [x] Experience
-- [ ] Skills
+- [x] Skills
 - [ ] Projects
 - [ ] Contact
 
-
 ### Current Mountain
 
-🏔️ Dedicated Skills Page
-
+🏔️ Dedicated Projects Page
 
 ---
 
@@ -70,7 +67,6 @@ Connect portfolio navigation to the dedicated pages and verify the complete navi
 - [ ] Connect Header navigation
 - [ ] Verify navigation across all pages
 - [ ] Verify active/current page behavior
-
 
 ---
 

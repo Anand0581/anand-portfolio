@@ -8,9 +8,9 @@
 
 **Phase Status:** 🟡 In Progress
 
-**Current Base Camp:** Dedicated Pages — About & Experience
+**Current Base Camp:** Dedicated Pages — Skills
 
-**Current Mountain:** 🏔️ Skills Page
+**Current Mountain:** 🏔️ Dedicated Projects Page
 
 ------------------------------------------------------------------------
 
@@ -50,7 +50,7 @@ Status: 🟡 In Progress
 
 -   [x] About
 -   [x] Experience
--   [ ] Skills
+-   [x] Skills
 -   [ ] Projects
 -   [ ] Contact
 
@@ -212,29 +212,98 @@ Dedicated About Page is now part of `main`.
 
 ------------------------------------------------------------------------
 
-# Current Mountain
-
 ## 🏔️ Dedicated Experience Page
 
-Status: 🟡 Ready to Start
+Status: ✅ Complete
 
 ### Goal
 
 Build a dedicated Experience page containing detailed professional
 history while keeping the homepage Experience section concise.
 
-The dedicated page should present the user's professional journey,
+The dedicated page presents the user's professional journey,
 responsibilities, impact, technologies, and relevant experience in a
 senior-engineer-oriented format.
 
+### Completed
+
+-   Dedicated `/experience` route implemented
+-   Career Journey added for Adobe, Webkul, and Adventure Infotech
+-   Impact & Engineering Highlights added
+-   Technology Evolution added
+-   Section separators refined between major content groups
+-   Let's Connect CTA added
+-   Typography and spacing reviewed
+-   Responsive review completed
+-   Visual review completed
+-   Commit created
+-   PR reviewed and merged
+-   Feature branch cleaned up
+
+### Result
+
+Dedicated Experience Page is now part of `main`.
+
+------------------------------------------------------------------------
+
+## 🏔️ Dedicated Skills Page
+
+Status: ✅ Complete
+
+### Goal
+
+Build a dedicated Skills page containing detailed technical
+capabilities while keeping the homepage Skills section concise as a
+curated preview.
+
+### Completed
+
+-   Dedicated `/skills` route implemented
+-   Skills page content finalized and approved
+-   Core Engineering Skills section implemented
+-   Technology Depth section implemented
+-   How I Work With Technology section implemented
+-   Generative AI section implemented
+-   Let's Connect CTA aligned with About and Experience
+-   Typography and spacing reviewed
+-   Desktop responsive review completed
+-   Mobile responsive review completed
+-   Visual review completed
+-   Commit created
+-   PR reviewed and merged
+-   Feature branch cleaned up
+
+### Result
+
+Dedicated Skills Page is now part of `main`.
+
+------------------------------------------------------------------------
+
+# Current Mountain
+
+## 🏔️ Dedicated Projects Page
+
+Status: 🟡 Ready to Start
+
+### Goal
+
+Build a dedicated Projects page containing detailed project
+information while keeping the homepage Featured Projects section
+concise and curated.
+
+The dedicated page should present selected projects, their purpose,
+engineering challenges, technical approach, key contributions,
+technology choices, and outcomes in a senior-engineer-oriented format.
+
 ### Planned Work
 
--   [ ] Define Experience page content
--   [ ] Define page structure
+-   [ ] Define Projects page content
+-   [ ] Define information hierarchy
 -   [ ] Define visual presentation
--   [ ] Review Experience information against source content
+-   [ ] Review project information against source content
+-   [ ] Define relationship between Featured Projects preview and detailed page
 -   [ ] Create feature branch
--   [ ] Implement Experience page
+-   [ ] Implement Projects page
 -   [ ] Review typography and spacing
 -   [ ] Review responsive behavior
 -   [ ] Visual review
@@ -260,18 +329,26 @@ Status: ✅ Complete
 
 ### Experience
 
--   [ ] Dedicated Experience page
--   [ ] Reuse Experience information between preview and detailed page
+Status: ✅ Complete
+
+-   [x] Dedicated Experience page
+-   [x] Reuse Experience information between preview and detailed page
 
 ### Skills
 
--   [ ] Dedicated Skills page
+Status: ✅ Complete
+
+-   [x] Dedicated Skills page
 
 ### Projects
+
+Status: 🟡 Next
 
 -   [ ] Dedicated Projects page
 
 ### Contact
+
+Status: ⏳ Pending
 
 -   [ ] Dedicated Contact page
 
@@ -326,8 +403,10 @@ After completion:
 
 -   `roadmap.md` → Overall project direction, phases, and major
     milestones.
+
 -   `SPRINT_BOARD.md` → Authoritative project status, current phase,
     current sub-phase, current mountain, and backlog.
+
 -   `Current_sprint.md` → Active sprint details and sprint history.
 
 ------------------------------------------------------------------------
