@@ -8,9 +8,9 @@
 
 **Phase Status:** 🟡 In Progress
 
-**Current Base Camp:** Dedicated About Page
+**Current Base Camp:** Dedicated Pages — About & Experience
 
-**Current Mountain:** 🏔️ Dedicated Experience Page
+**Current Mountain:** 🏔️ Skills Page
 
 ------------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ Status: ✅ Complete
 Status: 🟡 In Progress
 
 -   [x] About
--   [ ] Experience
+-   [x] Experience
 -   [ ] Skills
 -   [ ] Projects
 -   [ ] Contact
