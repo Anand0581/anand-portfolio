@@ -430,7 +430,7 @@ The Dedicated Skills Page mountain is complete.
 
 ## Projects Page
 
-Status: 🟡 Ready to Start
+Status: ✅ Complete
 
 Route:
 
@@ -447,39 +447,37 @@ technology choices, and outcomes in a senior-engineer-oriented format.
 
 ### Planned Work
 
-- [ ] Define Projects page content.
+- Dedicated `/projects` route implemented.
 
-- [ ] Define information hierarchy.
+- Projects content and information hierarchy finalized.
 
-- [ ] Define visual presentation.
+- Adobe Express case study completed.
 
-- [ ] Review project information against source content.
+- Adobe Photoshop Express case study completed.
 
-- [ ] Define relationship between Featured Projects preview and detailed page.
+- Webkul E-Commerce Mobile Suite case study completed.
 
-- [ ] Create feature branch.
+- Engineering Highlights completed.
 
-- [ ] Implement Projects page.
+- How I Approach Projects completed.
 
-- [ ] Review typography and spacing.
+- Let's Connect CTA completed.
 
-- [ ] Review responsive behavior.
+- Responsive review completed.
 
-- [ ] Visual review.
+- Visual review completed.
 
-- [ ] Commit.
+- Commit created.
 
-- [ ] Create PR.
+- PR reviewed and merged.
 
-- [ ] Review PR.
+- Merge into `main`.
 
-- [ ] Merge into `main`.
+- Delete feature branch.
 
-- [ ] Delete feature branch.
+- Update documentation.
 
-- [ ] Update documentation.
-
-- [ ] Return to Base Camp.
+- Return to Base Camp.
 
 ------------------------------------------------------------------------
 

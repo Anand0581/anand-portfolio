@@ -45,12 +45,12 @@ Build dedicated pages containing detailed information for each major portfolio a
 - [x] About
 - [x] Experience
 - [x] Skills
-- [ ] Projects
+- [x] Projects
 - [ ] Contact
 
 ### Current Mountain
 
-🏔️ Dedicated Projects Page
+🏔️ Dedicated Contact Page
 
 ---
 

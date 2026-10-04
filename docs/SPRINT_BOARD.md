@@ -8,9 +8,9 @@
 
 **Phase Status:** 🟡 In Progress
 
-**Current Base Camp:** Dedicated Pages — Skills
+**Current Base Camp:** Dedicated Pages — Dedicated Projects Page
 
-**Current Mountain:** 🏔️ Dedicated Projects Page
+**Current Mountain:** 🏔️ Dedicated Contact Page
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ Status: 🟡 In Progress
 -   [x] About
 -   [x] Experience
 -   [x] Skills
--   [ ] Projects
+-   [x] Projects
 -   [ ] Contact
 
 Education is not planned as a dedicated page.
@@ -279,11 +279,9 @@ Dedicated Skills Page is now part of `main`.
 
 ------------------------------------------------------------------------
 
-# Current Mountain
-
 ## 🏔️ Dedicated Projects Page
 
-Status: 🟡 Ready to Start
+Status: ✅ Complete
 
 ### Goal
 
@@ -295,25 +293,56 @@ The dedicated page should present selected projects, their purpose,
 engineering challenges, technical approach, key contributions,
 technology choices, and outcomes in a senior-engineer-oriented format.
 
+### Completed
+
+-   Dedicated `/projects` route implemented.
+-   Projects page information architecture finalized.
+-   Adobe Photoshop Express case study completed.
+-   Webkul E-Commerce Mobile Suite case study completed.
+-   Engineering Highlights section completed.
+-   How I Approach Projects section completed.
+-   Let's Connect CTA completed.
+-   Responsive review completed.
+-   Desktop visual review completed.
+-   Mobile/device visual review completed.
+-   Visual review completed.
+-   Commit created.
+-   PR reviewed and merged.
+-   Feature branch cleaned up.
+
+### Result
+
+Dedicated Projects Page is now part of `main`.
+
+------------------------------------------------------------------------
+
+# Current Mountain
+
+## 🏔️ Dedicated Contact Page
+
+Status: 🟡 Ready to Start
+
+### Goal
+
+Build the dedicated Contact page while keeping the homepage Contact section concise and focused on conversion.
+
+
 ### Planned Work
 
--   [ ] Define Projects page content
--   [ ] Define information hierarchy
--   [ ] Define visual presentation
--   [ ] Review project information against source content
--   [ ] Define relationship between Featured Projects preview and detailed page
--   [ ] Create feature branch
--   [ ] Implement Projects page
--   [ ] Review typography and spacing
--   [ ] Review responsive behavior
--   [ ] Visual review
--   [ ] Commit
--   [ ] Create PR
--   [ ] Review PR
--   [ ] Merge into `main`
--   [ ] Delete feature branch
--   [ ] Update documentation
--   [ ] Return to Base Camp
+-   Define Contact page content.
+-   Define information hierarchy.
+-   Decide visual presentation.
+-   Create feature branch.
+-   Implement dedicated Contact page.
+-   Review typography and spacing.
+-   Review responsive behavior.
+-   Complete visual review.
+-   Commit.
+-   Create Pull Request.
+-   Review and merge.
+-   Delete feature branch.
+-   Update documentation.
+-   Return to Base Camp.
 
 ------------------------------------------------------------------------
 
@@ -342,13 +371,13 @@ Status: ✅ Complete
 
 ### Projects
 
-Status: 🟡 Next
+Status: ✅ Complete
 
--   [ ] Dedicated Projects page
+-   [x] Dedicated Projects page
 
 ### Contact
 
-Status: ⏳ Pending
+Status: 🟡 Next
 
 -   [ ] Dedicated Contact page
 
