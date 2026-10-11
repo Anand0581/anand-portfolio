@@ -2,6 +2,7 @@ import Container from "../shared/Container";
 
 const projects = [
     {
+        id:"adobe-express",
         number: "01",
         title: "Adobe Express",
         category: "Performance Engineering",
@@ -28,6 +29,7 @@ const projects = [
             "Kotlin · MVVM · Hilt · Coroutines · CI/CD · Jenkins",
     },
     {
+        id:"photoshop-express",
         number: "02",
         title: "Adobe Photoshop Express",
         category: "Growth + Experimentation + Platform Engineering",
@@ -59,6 +61,7 @@ const projects = [
         specialFeature: true,
     },
     {
+        id:"ecommerce-mobile-suite",
         number: "03",
         title: "E-Commerce Mobile Suite",
         category: "Multi-platform Engineering + Technical Leadership",
@@ -176,6 +179,7 @@ export default function ProjectsPage() {
                     <div className="flex flex-col">
                         {projects.map((project, index) => (
                             <article
+                                id={project.id}
                                 key={project.number}
                                 className={`py-12 md:py-16 ${
                                     index !== 0

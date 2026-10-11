@@ -6,20 +6,40 @@ export default function Hero() {
             <Container>
                 <div className="min-h-screen">
                     <div className="flex flex-col justify-center gap-6">
-                        <p className="text-base font-normal text-zinc-400">Hi, I'm Anand.</p>
-                        <h1 className="text-3xl font-bold text-zinc-100">Senior Android Engineer</h1>
+                        <p className="text-base font-normal text-zinc-400">
+                            Hi, I'm Anand.
+                        </p>
+
+                        <h1 className="text-3xl font-bold text-zinc-100">
+                            Senior Android Engineer
+                        </h1>
+
                         <p className="text-lg text-zinc-300 max-w-3xl leading-relaxed">
                             Building scalable Android applications with 8 years of
                             experience, focusing on performance, architecture, and
                             user experience.
                         </p>
-                        <div className="flex gap-4">
-                            <button className="px-6 py-3 bg-zinc-100 text-zinc-900 rounded-lg font-medium">Resume</button>
-                            <button className="px-6 py-3 text-zinc-100 font-medium">Contact Me</button>
+
+                        <div className="flex flex-wrap gap-4">
+                            <a
+                                href="/resume.pdf"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="rounded-lg bg-zinc-100 px-6 py-3 font-medium text-zinc-900 transition-colors hover:bg-zinc-200"
+                            >
+                                Resume
+                            </a>
+
+                            <a
+                                href="/contact"
+                                className="rounded-lg px-6 py-3 font-medium text-zinc-100 transition-colors hover:text-white"
+                            >
+                                Contact Me
+                            </a>
                         </div>
                     </div>
                 </div>
             </Container>
         </section>
     );
-};
+}

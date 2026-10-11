@@ -7,7 +7,7 @@ export default function Projects() {
             description:
                 "Built core content creation features for a 100M+ user platform, including media editing and template rendering, with a focus on performance and scalable Android architecture.",
             technologies: "Kotlin · MVVM · Hilt · Coroutines · CI/CD",
-            href: "/projects/adobe-express",
+            href: "/projects#adobe-express",
         },
         {
             title: "Adobe Photoshop Express",
@@ -15,14 +15,14 @@ export default function Projects() {
                 "Optimized high-resolution image processing and rendering pipelines, reducing OOM crashes by ~40% and improving performance across low-to-mid-range devices.",
             technologies:
                 "Kotlin · RenderScript · MVVM · Clean Architecture · Room",
-            href: "/projects/photoshop-express",
+            href: "/projects#photoshop-express",
         },
         {
             title: "E-Commerce Mobile Suite",
             description:
                 "Built and delivered Android applications for Magento, OpenCart, and WooCommerce platforms used by 50+ global clients, while leading a team of developers.",
             technologies: "Kotlin · Retrofit · REST APIs · Room · Firebase",
-            href: "/projects/ecommerce-mobile-suite",
+            href: "/projects#ecommerce-mobile-suite",
         },
     ];
 
