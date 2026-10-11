@@ -1,81 +1,94 @@
 # Project Roadmap
 
-## Phase 1
-
-✅ Vision & Research
-
-------------------------------------------------------------------------
-
-## Phase 2
-
-✅ Engineering Foundation
-
-------------------------------------------------------------------------
-
-## Phase 3 --- Core Portfolio Development
-
-🟡 In Progress
-
-### Phase 3A --- Homepage
+## Phase 1 — Vision & Research
 
 Status: ✅ Complete
 
-Goal:
-
-Complete the homepage as a curated overview of the portfolio before moving
-to dedicated detail pages.
-
--   [x] Hero
--   [x] About Preview
--   [x] Experience Preview
--   [x] Education Highlight
--   [x] Skills Preview
--   [x] Featured Projects
--   [x] Contact CTA
-
-### Phase 3B --- Dedicated Pages
+## Phase 2 — Engineering Foundation
 
 Status: ✅ Complete
 
-Goal:
+---
 
-Build dedicated pages containing detailed information for each major
-portfolio area.
+## Phase 3 — Core Portfolio Development
 
--   [x] About
--   [x] Experience
--   [x] Skills
--   [x] Projects
--   [x] Contact
+Status: ✅ Complete
 
-Education is intentionally not a dedicated page. It remains supporting
-information on the homepage and About page.
+### Phase 3A — Homepage
 
-### Phase 3C --- Navigation
+Status: ✅ Complete
+
+Goal: Build the homepage as a curated overview of the portfolio.
+
+- [x] Hero
+- [x] About preview
+- [x] Experience preview
+- [x] Education highlight
+- [x] Skills preview
+- [x] Featured projects
+- [x] Contact CTA
+
+### Phase 3B — Dedicated Pages
+
+Status: ✅ Complete
+
+Goal: Provide detailed information for each major portfolio area.
+
+- [x] About page
+- [x] Experience page
+- [x] Skills page
+- [x] Projects page
+- [x] Contact page
+
+Education remains supporting information on the homepage and About page rather than a separate dedicated page.
+
+### Phase 3C — Navigation
+
+Status: ✅ Complete
+
+Goal: Connect the homepage and dedicated pages through reliable, responsive navigation.
+
+- [x] Connect Header navigation to dedicated routes
+- [x] Include Experience, Projects, Skills, About, and Contact
+- [x] Implement mobile menu open/close behavior
+- [x] Implement active-page styling
+- [x] Fix mobile Resume link styling
+- [x] Connect Hero Resume CTA
+- [x] Connect Hero Contact Me CTA
+- [x] Fix homepage project preview links
+- [x] Verify navigation on desktop
+- [x] Verify navigation on a real iPhone using Safari
+- [x] Complete visual and responsive review
+- [x] Commit and merge implementation PR
+- [x] Clean up feature branch
+
+### Phase 3 Completion Criteria
+
+- [x] Homepage implemented
+- [x] All five dedicated pages implemented
+- [x] Navigation connected across pages
+- [x] Homepage CTAs connected to their intended destinations
+- [x] Project preview links open the corresponding case studies
+- [x] Desktop and real-device mobile navigation verified
+- [x] Implementation changes merged into main
+
+---
+
+## Phase 4 — Polish
 
 Status: 🟡 Ready to Start
 
-Goal:
+Goal: Improve the quality, usability, performance, accessibility, and production readiness of the completed portfolio without introducing unnecessary complexity.
 
-Connect the portfolio navigation to the completed dedicated pages and
-verify the complete navigation experience across desktop and mobile.
+Planned areas:
 
--   [x] Dedicated-page navigation strategy finalized
--   [ ] Implement/verify dedicated routes
--   [ ] Connect Header navigation
--   [ ] Verify navigation across all pages
--   [ ] Verify active/current page behavior
--   [ ] Verify desktop navigation
--   [ ] Verify mobile navigation
+- [ ] Review and prioritize visual refinements
+- [ ] Responsive layout refinement
+- [ ] Consistent interaction states and transitions
+- [ ] Accessibility review
+- [ ] Performance review
+- [ ] SEO and metadata review
+- [ ] Production deployment preparation
+- [ ] Final cross-device verification
 
-------------------------------------------------------------------------
-
-## Phase 4 --- Polish
-
-⏳ Pending
-
--   Animations
--   Performance
--   SEO
--   Accessibility
--   Deployment
+Phase 4 work will be prioritized based on user impact and engineering value. Avoid premature abstractions and unrelated redesigns.
