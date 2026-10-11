@@ -1,503 +1,99 @@
-# Sprint #1
+# Current Sprint — Project Everest
 
-## Sprint Goal
+## Current Base Camp
 
-Complete Hero Section
-
-------------------------------------------------------------------------
-
-## Sprint Status
-
-### Done
-
-- Hero typography decisions.
-- Hero content decisions.
-- CTA strategy finalized.
-- Hero implementation process finalized.
-- Hero UI implemented.
-- Hero reviewed and approved.
-- Hero merged into `main`.
-
-------------------------------------------------------------------------
-
-### Blocked
-
-None
-
-------------------------------------------------------------------------
-
-## Sprint Health
+Phase 3 — Core Portfolio Development
 
 Status: ✅ Complete
 
-Progress: 100%
+## Current Mountain
 
-Blockers: None
-
-------------------------------------------------------------------------
-
-# Current Sprint
-
-## Current Milestone
-
-**Milestone 2 — Portfolio Core Sections & Dedicated Pages**
-
-Status: 🟡 In Progress
-
-------------------------------------------------------------------------
-
-## Current Phase
-
-**Phase 3C — Navigation**
+🏔️ Phase 4 — Polish
 
 Status: 🟡 Ready to Start
 
-Goal:
+## Project State
 
-Connect the portfolio navigation to the completed dedicated pages
-and verify the complete navigation experience across desktop and mobile.
+The homepage, dedicated pages, and responsive navigation are implemented and merged into `main`.
 
-------------------------------------------------------------------------
-
-# Completed
-
-## Foundation
-
-- Project architecture and initial structure established.
-- Design principles and information architecture defined.
-- Git workflow and branching strategy established.
-- Sprint and Base Camp workflow established.
-- Roadmap, sprint board, and current sprint documentation responsibilities established.
-
-------------------------------------------------------------------------
-
-# Phase 3A — Homepage
+### Phase 3A — Homepage
 
 Status: ✅ Complete
 
-The homepage is complete as a curated overview of the portfolio.
+- [x] Hero
+- [x] About preview
+- [x] Experience preview
+- [x] Education highlight
+- [x] Skills preview
+- [x] Featured projects
+- [x] Contact CTA
 
-### Completed Sections
-
-- Hero
-- About Preview
-- Experience Preview
-- Education Highlight
-- Skills Preview
-- Featured Projects
-- Contact CTA
-
-The homepage is intentionally a curated overview rather than the complete
-portfolio story.
-
-------------------------------------------------------------------------
-
-## Hero
+### Phase 3B — Dedicated Pages
 
 Status: ✅ Complete
 
-- Hero section structure implemented.
-- Viewport-based hero height implemented.
-- Content wrapper implemented.
-- Vertical centering implemented.
-- Hero content spacing implemented.
-- Hero action layout implemented.
-- Resume primary CTA implemented.
-- Contact Me secondary CTA implemented.
-- Feature branch created and pushed.
-- Pull Request created.
-- Pull Request reviewed and approved.
-- Hero Foundation merged into `main`.
-- Feature branch cleaned up.
+- [x] About
+- [x] Experience
+- [x] Skills
+- [x] Projects
+- [x] Contact
 
-------------------------------------------------------------------------
+Education remains supporting information rather than a dedicated page.
 
-## About Preview
+### Phase 3C — Navigation
 
 Status: ✅ Complete
 
-- About content finalized and approved.
-- About section implemented.
-- About section positioned after Hero.
-- Typography reviewed.
-- Section-level spacing reviewed.
-- Responsive behavior reviewed.
-- Visual review completed.
-- Pull Request reviewed and approved.
-- About section merged into `main`.
-- Feature branch cleaned up.
-
-------------------------------------------------------------------------
-
-## Experience Preview
-
-Status: ✅ Complete
-
-- Experience section implemented.
-- Experience content added from resume.
-- Layout reviewed.
-- Responsive behavior reviewed.
-- Visual review completed.
-- Feature branch merged into `main`.
-- Feature branch cleaned up.
-
-------------------------------------------------------------------------
-
-## Education Highlight
-
-Status: ✅ Complete
-
-- Education section implemented.
-- Education content added.
-- Layout reviewed.
-- Responsive behavior reviewed.
-- Visual review completed.
-- Feature branch merged into `main`.
-- Feature branch cleaned up.
-
-------------------------------------------------------------------------
-
-## Skills Preview
-
-Status: ✅ Complete
-
-- Skills preview content finalized.
-- Skills preview implemented.
-- Layout reviewed.
-- Responsive behavior reviewed.
-- Visual review completed.
-- Feature branch merged into `main`.
-- Feature branch cleaned up.
-
-------------------------------------------------------------------------
-
-## Featured Projects
-
-Status: ✅ Complete
-
-- Featured Projects content finalized.
-- Projects preview implemented.
-- Layout reviewed.
-- Responsive behavior reviewed.
-- Visual review completed.
-- Feature branch merged into `main`.
-- Feature branch cleaned up.
-
-------------------------------------------------------------------------
-
-## Contact CTA
-
-Status: ✅ Complete
-
-- Contact CTA content finalized.
-- Let's Connect CTA implemented.
-- Primary contact CTA implemented.
-- Resume CTA implemented.
-- Layout reviewed.
-- Responsive behavior reviewed.
-- Visual review completed.
-- Feature branch merged into `main`.
-- Feature branch cleaned up.
-
-------------------------------------------------------------------------
-
-# Phase 3B — Dedicated Pages
-
-Status: ✅ Complete
-
-Goal:
-
-Build dedicated portfolio pages containing detailed information while
-maintaining the homepage as a curated overview.
-
-------------------------------------------------------------------------
-
-## About Page
-
-Status: ✅ Complete
-
-Route:
-
-`/about`
-
-### Completed
-
-- Dedicated `/about` route implemented.
-- About page content finalized and approved.
-- Information hierarchy finalized.
-- About Me section implemented.
-- My Journey section implemented.
-- Engineering Philosophy section implemented.
-- What I Focus On section implemented.
-- Education supporting detail included.
-- Let's Connect CTA implemented.
-- Responsive behavior reviewed.
-- Visual review completed.
-- Pull Request reviewed and approved.
-- About page merged into `main`.
-- Feature branch cleaned up.
-
-### Base Camp
-
-The Dedicated About Page mountain is complete.
-
-------------------------------------------------------------------------
-
-## Experience Page
-
-Status: ✅ Complete
-
-Route:
-
-`/experience`
-
-### Completed
-
-- Dedicated `/experience` route implemented.
-- Professional Intro implemented.
-- Career Journey implemented.
-- Adobe experience included.
-- Webkul experience included.
-- Adventure Infotech experience included.
-- Impact & Engineering Highlights implemented.
-- Technology Evolution implemented.
-- Visual separators added between major content groups.
-- Let's Connect CTA implemented.
-- Typography and spacing reviewed.
-- Responsive behavior reviewed.
-- Visual review completed.
-- Commit created.
-- Pull Request created.
-- Pull Request reviewed and approved.
-- Experience page merged into `main`.
-- Feature branch deleted.
-- `git checkout main` completed.
-- `git pull` completed.
-
-### Base Camp
-
-The Dedicated Experience Page mountain is complete.
-
-------------------------------------------------------------------------
-
-## Skills Page
-
-Status: ✅ Complete
-
-Route:
-
-`/skills`
-
-### Completed
-
-- Dedicated `/skills` route implemented.
-- Skills page content finalized and approved.
-- Core Engineering Skills implemented.
-- Technology Depth implemented.
-- How I Work With Technology implemented.
-- Generative AI section implemented.
-- Let's Connect CTA aligned with About and Experience.
-- Typography and spacing reviewed.
-- Responsive behavior reviewed.
-- Desktop responsive review completed.
-- Mobile responsive review completed.
-- Visual review completed.
-- Commit created.
-- Pull Request created.
-- Pull Request reviewed and approved.
-- Skills page merged into `main`.
-- Feature branch deleted.
-
-### Base Camp
-
-The Dedicated Skills Page mountain is complete.
-
-------------------------------------------------------------------------
-
-## Projects Page
-
-Status: ✅ Complete
-
-Route:
-
-`/projects`
-
-### Goal
-
-Build a dedicated Projects page containing detailed project information
-while keeping the homepage Featured Projects section concise and curated.
-
-The dedicated page presents selected projects, their purpose,
-engineering challenges, technical approach, key contributions,
-technology choices, and outcomes in a senior-engineer-oriented format.
-
-### Completed
-
-- Dedicated `/projects` route implemented.
-- Projects content and information hierarchy finalized.
-- Adobe Express case study completed.
-- Adobe Photoshop Express case study completed.
-- Webkul E-Commerce Mobile Suite case study completed.
-- Engineering Highlights completed.
-- How I Approach Projects completed.
-- Let's Connect CTA completed.
-- Responsive review completed.
-- Desktop visual review completed.
-- Mobile responsive review completed.
-- Visual review completed.
-- Commit created.
-- Pull Request created.
-- Pull Request reviewed and approved.
-- Projects page merged into `main`.
-- Feature branch cleaned up.
-
-### Base Camp
-
-The Dedicated Projects Page mountain is complete.
-
-------------------------------------------------------------------------
-
-## Contact Page
-
-Status: ✅ Complete
-
-Route:
-
-`/contact`
-
-### Goal
-
-Build a dedicated Contact page focused on client acquisition while
-keeping the homepage Contact CTA concise and conversion-focused.
-
-### Completed
-
-- Dedicated `/contact` route implemented.
-- Client-acquisition focused content finalized.
-- Contact page information hierarchy finalized.
-- Hero section implemented.
-- How I Can Help section implemented.
-- What We Can Work On section implemented.
-- Let's Talk conversion section implemented.
-- Email contact option added.
-- LinkedIn contact option added.
-- GitHub contact option added.
-- Phone number intentionally excluded from V1.
-- Redundant Contact eyebrow removed from the hero.
-- Typography and spacing reviewed.
-- Desktop responsive review completed.
-- Mobile responsive review completed.
-- Visual review completed.
-- Commit created.
-- Pull Request created.
-- Pull Request reviewed and approved.
-- Contact page merged into `main`.
-- Feature branch cleaned up.
-
-### Base Camp
-
-The Dedicated Contact Page mountain is complete.
-
-------------------------------------------------------------------------
-
-# Phase 3B Base Camp
-
-Status: ✅ Complete
-
-All planned dedicated pages are now complete:
-
-- About
-- Experience
-- Skills
-- Projects
-- Contact
-
-Phase 3B — Dedicated Pages is complete.
-
-The portfolio now has a curated homepage overview supported by
-dedicated detailed pages.
-
-**Next climb: Phase 3C — Navigation.**
-
-------------------------------------------------------------------------
-
-# Current Mountain
-
-## 🏔️ Phase 3C — Navigation
+- [x] Connect Header navigation to dedicated routes
+- [x] Include Experience, Projects, Skills, About, and Contact
+- [x] Implement mobile menu open/close behavior
+- [x] Implement active-page styling
+- [x] Fix mobile Resume link styling
+- [x] Connect homepage Resume CTA
+- [x] Connect homepage Contact Me CTA
+- [x] Fix homepage project preview links
+- [x] Verify desktop navigation
+- [x] Verify real-device navigation on iPhone 13 using Safari
+- [x] Complete responsive and visual review
+- [x] Merge implementation PR
+- [x] Clean up implementation branch
+
+## Phase 3 Completion Result
+
+Phase 3 — Core Portfolio Development is complete.
+
+The portfolio now has a homepage, five dedicated pages, responsive navigation, functional homepage CTAs, and working project-preview navigation.
+
+Implementation changes are merged into `main`.
+
+## Phase 4 — Polish
 
 Status: 🟡 Ready to Start
 
 ### Goal
 
-Connect the portfolio navigation to the completed dedicated pages
-and verify the complete navigation experience across desktop and mobile.
+Improve the completed portfolio's visual consistency, usability, accessibility, performance, SEO, and production readiness.
 
 ### Planned Work
 
-- [ ] Review current Header navigation.
-- [ ] Connect Header navigation to dedicated routes.
-- [ ] Verify `/about`.
-- [ ] Verify `/experience`.
-- [ ] Verify `/skills`.
-- [ ] Verify `/projects`.
-- [ ] Verify `/contact`.
-- [ ] Verify navigation destinations.
-- [ ] Verify active/current page behavior.
-- [ ] Review desktop navigation.
-- [ ] Review mobile navigation.
-- [ ] Complete visual review.
-- [ ] Commit.
-- [ ] Create Pull Request.
-- [ ] Review Pull Request.
-- [ ] Merge into `main`.
-- [ ] Delete feature branch.
-- [ ] Update documentation.
-- [ ] Return to Base Camp.
+- [ ] Review and prioritize visual refinements
+- [ ] Review responsive layouts across device sizes
+- [ ] Review hover, focus, and interaction states
+- [ ] Perform an accessibility review
+- [ ] Review performance
+- [ ] Review SEO and metadata
+- [ ] Prepare for production deployment
+- [ ] Perform final cross-device verification
 
-------------------------------------------------------------------------
+### Working Rules
 
-# Architecture Decisions
+- Work on one mountain at a time.
+- Prioritize user impact over cosmetic changes.
+- Avoid premature abstractions.
+- Preserve approved design decisions unless there is a clear reason to change them.
+- Review desktop and real-device mobile behavior where applicable.
+- Every session ends with updated documentation and a meaningful commit when changes have been made.
 
-## Navigation
+## Next Session Starting Point
 
-Dedicated pages are used instead of anchor scrolling for the major
-portfolio areas.
-
-Current dedicated destinations:
-
-- `/about`
-- `/experience`
-- `/skills`
-- `/projects`
-- `/contact`
-
-Education is not a dedicated route.
-
-Education remains supporting information on the homepage and About page.
-
-Navigation implementation is intentionally deferred to Phase 3C so that
-dedicated page implementation remains independent from navigation changes.
-
-------------------------------------------------------------------------
-
-## Homepage
-
-The homepage contains curated previews and highlights rather than
-complete content.
-
-Current structure:
-
-```text
-Hero
-↓
-About Preview
-↓
-Experience Preview
-↓
-Education Highlight
-↓
-Skills Preview
-↓
-Featured Projects
-↓
-Contact CTA
+Start Phase 4 — Polish by reviewing the existing portfolio and prioritizing the highest-impact improvements before making implementation changes.
